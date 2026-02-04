@@ -143,9 +143,6 @@ Este é um aplicativo Android criado como desafio de desenvolvimento, apresentan
   - CardView
   - Intent para navegação
 
-  ## 📱 Demo
-
-https://github.com/jessicawolfie/FriendsQuotes/issues/1#issue-3893961190
 
 ### 📂 Estrutura do Projeto
 
