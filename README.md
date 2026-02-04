@@ -28,7 +28,7 @@ This is an Android application created as a development challenge, featuring the
  
   ## 📱 Demo
 
-file:///Users/jessicawolfie/Desktop/Screen_recording_20260203_214249.webm
+https://github.com/jessicawolfie/FriendsQuotes/issues/1#issue-3893961190
 
 ### 📂 Project Structure
 
@@ -142,6 +142,10 @@ Este é um aplicativo Android criado como desafio de desenvolvimento, apresentan
   - TextView
   - CardView
   - Intent para navegação
+
+  ## 📱 Demo
+
+https://github.com/jessicawolfie/FriendsQuotes/issues/1#issue-3893961190
 
 ### 📂 Estrutura do Projeto
 
