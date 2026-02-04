@@ -28,7 +28,7 @@ This is an Android application created as a development challenge, featuring the
  
   ## 📱 Demo
 
-https://github.com/jessicawolfie/FriendsQuotes/issues/1#issue-3893961190
+https://github.com/user-attachments/assets/34e99d7d-3990-404c-bc9e-fb3fe2cc0056
 
 ### 📂 Project Structure
 
